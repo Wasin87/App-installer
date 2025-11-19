@@ -31,12 +31,16 @@ The project uses **JSON files** as the data source and does not include a server
 ## 🛠 Technologies Used
 
 ```txt
-- HTML5 → Layout & Structure
-- CSS3 → Styling & Responsive UI
-- JavaScript (ES6) → Logic & Interactive Features
+- React → UI Library
+- React Router → Client-side Routing
+- JavaScript (ES6+) → Logic & Interactivity
+- Tailwind CSS → Styling & Responsive Design
 - JSON → Data storage for apps
+- Chart.js / React Chart.js → Bar charts for stats
+- React Toastify → Notifications
 - GitHub Pages / Netlify → Deployment
-````
+```
+
 
 ---
 
